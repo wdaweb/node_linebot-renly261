@@ -1,0 +1,8 @@
+# 要忽略的東西
+node_modules
+上課
+.env
+1.js
+2.jsf
+flex.js
+test.js
